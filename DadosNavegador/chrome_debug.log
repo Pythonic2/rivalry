@@ -1,0 +1,12 @@
+[5916:11288:1206/222057.081:INFO:CONSOLE(1)] "%s [33m%s [0.004] [SW] got 0 windows from the start", source: https://web.telegram.org/k/sw.29809dbc47d6e4745e9d.chunk.js (1)
+[5916:11288:1206/222057.249:INFO:CONSOLE(1)] "%s [33m%s [0.175] [SW] window connected 4fbeb13a-9960-44a1-a904-a0e7f68be539 windows before 0", source: https://web.telegram.org/k/sw.29809dbc47d6e4745e9d.chunk.js (1)
+[5916:11288:1206/222057.249:INFO:CONSOLE(1)] "%s [33m%s [0.175] [SW] windows ", source: https://web.telegram.org/k/sw.29809dbc47d6e4745e9d.chunk.js (1)
+[5916:11288:1206/222057.249:INFO:CONSOLE(1)] "%s [33m%s [0.175] [SW] sending message port for mtproto", source: https://web.telegram.org/k/sw.29809dbc47d6e4745e9d.chunk.js (1)
+[5916:11288:1206/222057.337:INFO:CONSOLE(1)] "got state, time: 88.7999999821186", source: https://web.telegram.org/k/main.95909eb56d699f42aabb.bundle.js (1)
+[5916:11288:1206/222057.337:INFO:CONSOLE(1)] "Will mount IM page: 1670376057.331", source: https://web.telegram.org/k/main.95909eb56d699f42aabb.bundle.js (1)
+[5916:11288:1206/222057.652:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://web.telegram.org/k/#-1731754163 (0)
+[5916:11288:1206/222057.807:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://web.telegram.org/k/#-1731754163 (0)
+[5916:11288:1206/222057.807:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://web.telegram.org/k/#-1731754163 (0)
+[5916:11288:1206/222100.564:ERROR:device_event_log_impl.cc(215)] [22:21:00.559] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[5916:11288:1206/222100.564:ERROR:device_event_log_impl.cc(215)] [22:21:00.560] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[5916:11288:1206/222100.618:ERROR:device_event_log_impl.cc(215)] [22:21:00.612] Bluetooth: bluetooth_adapter_winrt.cc:1164 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
